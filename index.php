@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="<?php bloginfo('charset') ?>">
@@ -12,5 +11,3 @@
     
 </body>
 </html>
-</html>
-
