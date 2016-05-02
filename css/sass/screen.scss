@@ -1,0 +1,8 @@
+body{
+    background:black;
+    color:wheat;
+    a {color:black;
+        &.pri{height: 0;}
+    }
+    
+    }
